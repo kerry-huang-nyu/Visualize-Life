@@ -33,6 +33,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  flex-direction: column; /* Use row or column depending on your design */
 }
 
 h1 {

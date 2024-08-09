@@ -16,6 +16,8 @@
 5. themes: the option to change dark theme + light themes 
 6. alert: on your birthday generate a theme/message 
 
+7. Question mark: put a question mark to give more information about sources + who as a source 
+
 
 do enough work so that life in squares is accomplished 
 do enough for so menu is accomplisehd 
